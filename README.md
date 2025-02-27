@@ -10,3 +10,6 @@
 - 📫 How to reach me: cesarauge26@gmail.com
 - ⚡ Fun fact: I love to travel, and experience new cultures, which is why I am so interested in international business.
 
+- Skills [![MyPublicInbox](https://img.shields.io/badge/React-Javascript!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
+</br>
+
