@@ -25,8 +25,10 @@
 [![Bootcamp Challenges](https://img.shields.io/badge/Bootcamp-Challenges-red)](https://shields.io/)
 
 ## Contact
-  [![Email](https://img.shields.io/badge/cesarauge25@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](cesarauge26@gmail.com)
+  [![Email](https://img.shields.io/badge/cesarauge26@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](cesarauge26@gmail.com)
 </br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
+
 
 
 
